@@ -1,0 +1,4 @@
+To install react use the code
+npx create-react-app my-app
+cd my-app
+npm start
